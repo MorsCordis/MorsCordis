@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MorsCordis
+- 👋 Hi, I’m Cecil
 - 👀 I’m interested in indoor climbing, snowboarding, and SCUBA diving.
-- 🌱 I’m currently learning Electrical Engineering at ASU.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... please dont. I'm a millenial. We don't like contact with the outside world.
+- 🌱 I’m currently working on my MSE in Electrical Engineering at ASU
+- 💞️ I’m looking to collaborate on ... open to discussions.
+- 📫 How to reach me... deveauengineeringventures@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
