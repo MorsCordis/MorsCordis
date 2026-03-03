@@ -2,7 +2,7 @@
 - 👀 I’m interested in indoor climbing, snowboarding, and SCUBA diving.
 - 🌱 I’m currently working on my MSE in Electrical Engineering at ASU
 - 💞️ I’m looking to collaborate on ... open to discussions.
-- 📫 How to reach me... deveauengineeringventures@gmail.com
+- 📫 How to reach me... https://www.logcabincoding.com and cecil@logcabincoding.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
